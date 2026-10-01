@@ -1,0 +1,15 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.sourcelink.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\bin\Debug\net10.0\AsynchronousApp.exe
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\bin\Debug\net10.0\AsynchronousApp.deps.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\bin\Debug\net10.0\AsynchronousApp.runtimeconfig.json
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\bin\Debug\net10.0\AsynchronousApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\bin\Debug\net10.0\AsynchronousApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\refint\AsynchronousApp.dll
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.pdb
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\AsynchronousApp.genruntimeconfig.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Asynchronous\AsynchronousApp\obj\Debug\net10.0\ref\AsynchronousApp.dll

@@ -1,0 +1,5 @@
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Event\obj\Debug\net10.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Event\obj\Debug\net10.0\Event.AssemblyInfoInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Event\obj\Debug\net10.0\Event.AssemblyInfo.cs
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Event\obj\Debug\net10.0\Event.csproj.CoreCompileInputs.cache
+C:\Users\sanik\OneDrive\Desktop\TAP\.Net\Event\obj\Debug\net10.0\Event.sourcelink.json
